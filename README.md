@@ -1,6 +1,13 @@
 
-#### Description
-E-commerce website clone built as personal project, featuring modern design, easy navigation and essential features for online sales.
+## 🚀 Description
+*E-commerce website clone built as personal project*
+
+## 👉 Features 
++ A modern and visually appealing layout. 
++ Easy navigation, making it simple for users to find and purchase products. 
++ All the essential features required for online sales, such as a shopping cart and a user-friendly checkout process.
++ Additionally, the website is fully responsive, making it accessible on any device, including desktop computers, tablets, and smartphones. 
++ Overall, this e-commerce website clone aims to provide a smooth and seamless online shopping experience for its users.
 
 #### Screenshots
 ![Home Page](https://i.ibb.co/f2RXz7W/Screenshot-2023-01-24-114616.jpg)
